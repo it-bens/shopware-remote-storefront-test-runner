@@ -1,0 +1,14 @@
+###> PHPStorm ###
+/.idea/
+###< PHPStorm ###
+
+###> macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+###< macOS ###
+
+###> Symfony ###
+/code/src/.preload.php
+###< Symfony ###
